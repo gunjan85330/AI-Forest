@@ -12,12 +12,12 @@ This repository contains the **data preprocessing, grid creation, weather data i
 
 ## Repository Structure
 AI-FOREST/
-│── data/ # raw datasets (NASA FIRMS, weather, etc.)
-│── notebooks/ # Jupyter notebooks (preprocessing, grid, weather fetching, modeling)
-│── src/ # Python scripts (helper functions, reusable code)
-│── outputs/ # cleaned datasets, processed files, prediction results
-│── README.md # project overview (this file)
-│── requirements.txt # dependencies
+data/ # raw datasets (NASA FIRMS, weather, etc.)
+notebooks/ # Jupyter notebooks (preprocessing, grid, weather fetching, modeling)
+src/ # Python scripts (helper functions, reusable code)
+outputs/ # cleaned datasets, processed files, prediction results
+README.md # project overview (this file)
+requirements.txt # dependencies
 
 
 
