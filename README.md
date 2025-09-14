@@ -46,7 +46,7 @@ AI-FOREST/
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/AI-FOREST.git
+   git clone https://github.com/<gunjan85330>/AI-FOREST.git
    cd AI-FOREST
 
 2. Install dependencies:
