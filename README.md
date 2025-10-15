@@ -40,10 +40,8 @@ requirements.txt # dependencies
 6. **Model Training**: Trained Logistic Regression and Random Forest classifiers.  
 7. **Balancing**: Used oversampling (ROS/SMOTE) to handle class imbalance.  
 8. **Prediction & Visualization**: Generated fire risk maps with Plotly.
-9. Generative AI for Fire Spread Simulation
-    (a)Synthetic Data Generation using Cellular Automata (CA)
-    (b) Variational Autoencoder (VAE) Training and visualization of fire spread
-10. Integration of Offline LLM  
+9. **Generative AI for Fire Spread Simulation**:Synthetic Data Generation using Cellular Automata (CA), Variational Autoencoder (VAE) Training and visualization of fire spread
+10. **Integration of Offline LLM** 
 
 ---
 
